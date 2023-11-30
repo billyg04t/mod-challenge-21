@@ -9,7 +9,10 @@ This is an application that lets the user save and search for books that they li
 Readme Template was copied from Vanderbilt Bootcamp Prework Module 3.5.3
 [https://courses.bootcampspot.com/courses/3801]
 
-Route files .
+Starter code produced by solid-broccoli
+
+Link to solid-broccoli GitHub:
+[https://github.com/coding-boot-camp/solid-broccoli.git]
 
  File structure and mutation functionality in the Vanderbilt Full Stack Web Development Program, Modules 22 and 23.
 ## Usage
